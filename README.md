@@ -3,7 +3,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/46mk5218x995svhw/branch/master?svg=true)](https://ci.appveyor.com/project/EyalAr/lwip/branch/master)
 [![Coverage Status](https://img.shields.io/coveralls/EyalAr/lwip/master.svg)](https://coveralls.io/r/EyalAr/lwip)
 
-# Light-weight image processor for NodeJS
+# FORK! Light-weight image processor for NodeJS 7.9
 
 [![Join the chat at https://gitter.im/EyalAr/lwip](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/EyalAr/lwip?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
